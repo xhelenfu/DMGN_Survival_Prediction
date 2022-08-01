@@ -1,6 +1,6 @@
 # Deep Multimodal Graph-Based Network for Survival Prediction from Highly Multiplexed Images and Patient Variables
 
-Fu, X., Patrick, E., & Kim, J. (2022).
+Xiaohang Fu, Ellis Patrick, Jean Y.H. Yang, and Jinman Kim (2022).
 
 Implementation of the proposed deep learning model in Python and PyTorch. 
 
